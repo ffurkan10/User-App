@@ -16,7 +16,7 @@ const fetchUsers = createAsyncThunk("fetchUsers", async (skip) => {
 
 export default fetchUsers;
 
-// ********** kullanabileceğimiz 2. api adresi **************
+// ********** kullanabileceğimiz 2. api adresi ************** yapı olarak aynı
 
 // const instance = axios.create({
 //   baseURL: `https://randomuser.me/api/`,
